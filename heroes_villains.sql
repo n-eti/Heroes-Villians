@@ -1,0 +1,1 @@
+SELECT * FROM heroes_villains_database.supers_super;
